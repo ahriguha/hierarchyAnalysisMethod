@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\EngenKnowl_lb1\EngenKnowl_lb1\bin\Debug\EngenKnowl_lb1.exe.config
+C:\Users\Admin\source\repos\EngenKnowl_lb1\EngenKnowl_lb1\bin\Debug\EngenKnowl_lb1.exe
+C:\Users\Admin\source\repos\EngenKnowl_lb1\EngenKnowl_lb1\bin\Debug\EngenKnowl_lb1.pdb
+C:\Users\Admin\source\repos\EngenKnowl_lb1\EngenKnowl_lb1\obj\Debug\EngenKnowl_lb1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\EngenKnowl_lb1\EngenKnowl_lb1\obj\Debug\EngenKnowl_lb1.Form1.resources
+C:\Users\Admin\source\repos\EngenKnowl_lb1\EngenKnowl_lb1\obj\Debug\EngenKnowl_lb1.Properties.Resources.resources
+C:\Users\Admin\source\repos\EngenKnowl_lb1\EngenKnowl_lb1\obj\Debug\EngenKnowl_lb1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\EngenKnowl_lb1\EngenKnowl_lb1\obj\Debug\EngenKnowl_lb1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EngenKnowl_lb1\EngenKnowl_lb1\obj\Debug\EngenKnowl_lb1.exe
+C:\Users\Admin\source\repos\EngenKnowl_lb1\EngenKnowl_lb1\obj\Debug\EngenKnowl_lb1.pdb
